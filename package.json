@@ -1,0 +1,10 @@
+{
+  "name": "nexus-prompt-examples",
+  "version": "1.0.0",
+  "description": "Examples for Nexus Prompt",
+  "author": "Nexus Prompt",
+  "license": "MIT",
+  "devDependencies": {
+    "nexus-prompt-cli": "^1.0.0"
+  }
+}
