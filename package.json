@@ -5,6 +5,6 @@
   "author": "Nexus Prompt",
   "license": "MIT",
   "devDependencies": {
-    "nexus-prompt-cli": "^1.0.0"
+    "nexus-prompt-cli": "^1.0.1"
   }
 }
