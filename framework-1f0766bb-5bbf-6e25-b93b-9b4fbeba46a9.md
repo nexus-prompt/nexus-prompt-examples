@@ -1,8 +1,8 @@
 ---
+version: 2
 id: 1f0766bb-5bbf-6e25-b93b-9b4fbeba46a9
 name: デフォルトフレームワーク
 slug: default-framework
-version: 2
 ---
 # **Role（専門家ロール）**  
 ## **要素:**
